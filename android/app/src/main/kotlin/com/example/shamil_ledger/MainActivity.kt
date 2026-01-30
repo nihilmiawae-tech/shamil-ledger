@@ -1,4 +1,4 @@
-package com.example.shamil_ledger
+package androidIdentifier
 
 import io.flutter.embedding.android.FlutterActivity
 

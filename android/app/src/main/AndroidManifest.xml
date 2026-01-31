@@ -6,7 +6,7 @@
     android:icon="@mipmap/ic_launcher">
 
     <meta-data
-        android:name="flutterEmbedding"
+        android:name="flutterembedding"
         android:value="2" />
 
     <activity

@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="androidIdentifier">
+    package="com.example.shamil_ledger">
 
     <application
     android:label="Shamil"
@@ -10,7 +10,7 @@
         android:value="2" />
 
     <activity
-        android:name="androidIdentifier.MainActivity"
+        android:name="com.example.shamil_ledger.MainActivity"
         android:exported="true"
         android:launchMode="singleTop"
         android:theme="@style/Theme.AppCompat.Light.NoActionBar"
